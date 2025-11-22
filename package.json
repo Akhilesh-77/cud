@@ -1,0 +1,7 @@
+{
+  "name": "cud",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo 'running an sample test'"
+  }
+}
